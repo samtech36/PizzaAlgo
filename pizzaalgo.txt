@@ -1,3 +1,4 @@
 Select the type of pizza you want to order
 Select the toppings of pizza you want to add on
 Add other options such as a drink or dessert
+Select if you want delivery or takeout
