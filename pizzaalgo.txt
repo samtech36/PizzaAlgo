@@ -1,1 +1,2 @@
 Select the type of pizza you want to order
+Select the toppings of pizza you want to add on
