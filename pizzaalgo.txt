@@ -3,3 +3,4 @@ Select the toppings of pizza you want to add on
 Add other options such as a drink or dessert
 Select if you want delivery or takeout
 Payment will be processed and will get confirmation email
+Your pizza is ready
